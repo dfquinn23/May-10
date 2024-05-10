@@ -6,3 +6,5 @@ There are always things to consider.
 
 That said, we always need to be careful about the punctuation.
 Sho' enough!
+
+Sho 'enough, fo sho!
